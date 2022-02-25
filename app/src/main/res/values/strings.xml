@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="tab_page1">Unit Selection</string>
+    <string name="tab_page2">Unit Conversion</string>
+    <string name="bnumber7">7</string>
+    <string name="bnumber8">8</string>
+    <string name="bnumber9">9</string>
+    <string name="bnumber4">4</string>
+    <string name="bnumber5">5</string>
+    <string name="bnumber6">6</string>
+    <string name="bnumber1">1</string>
+    <string name="bnumber2">2</string>
+    <string name="bnumber3">3</string>
+    <string name="bnumber0">0</string>
+    <string name="bDelete">DEL</string>
+    <string name="bDecimal">.</string>
+    <string name="bClear">CLEAR</string>
+    <string name="bConvert">CONVERT</string>
+    <string name="stringFrom">From</string>
+    <string name="stringTo">To</string>
+    <string name="stringType">Select Unit Category</string>
+</resources>
